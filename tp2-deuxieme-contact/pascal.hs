@@ -3,10 +3,7 @@ import Test.QuickCheck
 import Text.Show.Functions -- for Show instance for function types
 
 -- TP2: Deuxième contact avec Haskell
---
--- DEROISSART Maxime 
--- SASU Daniel
-
+--Jean Debout Gatari
 -- Exercice 3
 
 pasPascal :: [Integer] -> [Integer]

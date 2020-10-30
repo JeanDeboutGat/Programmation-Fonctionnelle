@@ -5,10 +5,7 @@ import Graphics.Gloss
 import Text.Show.Functions -- for Show instance for function types
 
 -- TP2: Deuxième contact avec Haskell
---
--- DEROISSART Maxime 
--- SASU Daniel
---
+--Jean Debout Gatari
 
 -- Exercice 1
 alterne :: [a] -> [a]

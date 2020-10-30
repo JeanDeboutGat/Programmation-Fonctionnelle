@@ -1,9 +1,7 @@
 module Main where 
 
 -- TP2: Deuxième contact avec Haskell
---
--- DEROISSART Maxime 
--- SASU Daniel
+--Jean Debout Gatari
 --
 import Graphics.Gloss
 
