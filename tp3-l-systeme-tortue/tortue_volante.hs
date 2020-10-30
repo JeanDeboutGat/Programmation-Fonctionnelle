@@ -5,8 +5,7 @@ import Graphics.Gloss
 
 -- TP3: Le L-système et la Tortue - 2ème partie
 --
--- DEROISSART Maxime 
--- SASU Daniel
+-- Jean Debout GATARI 
 
 -- This part contains only the flying turtle
 
