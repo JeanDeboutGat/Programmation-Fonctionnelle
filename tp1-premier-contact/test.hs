@@ -1,8 +1,6 @@
 module Test where
 -- test.hs
---
--- DEROISSART Maxime 
--- SASU Daniel
+--Jean Debout Gatari
 
 somme n = sum [1..n]
 

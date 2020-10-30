@@ -3,9 +3,7 @@ module Exercices where
 import Test.QuickCheck
 
 -- exercices.hs
---
--- DEROISSART Maxime 
--- SASU Daniel
+--Jean Debout Gatari
 
 -- Exercice 3 : SommeDeXaY
 -- signature:
