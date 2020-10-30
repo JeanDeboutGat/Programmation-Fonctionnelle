@@ -2,8 +2,7 @@ module Arbres where
 
 -- TP4: Des arbres et des couleurs
 --
--- DEROISSART Maxime
--- SASU Daniel
+-- Jean Debout Gatari
 
 
 import Test.QuickCheck 
